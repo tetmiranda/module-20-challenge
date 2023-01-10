@@ -85,6 +85,9 @@ To interact with your deployed smart contract, complete the following steps:
     > remix vm (berlin) account2 address: 0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2
     > ```
 
+   > Initial joint account set-up
+   
+   ![alt=“”](Execution_Results/joint_acct_setup.png)
 2. Test the deposit functionality of your smart contract by sending the following amounts of ether. After each transaction, use the `contractBalance` function to verify that the funds were added to your contract:
 
     * Transaction 1: Send 1 ether as wei.
